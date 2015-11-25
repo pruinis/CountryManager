@@ -2,7 +2,7 @@
 Singleton with country info.
 
 You can get:
-isoCode;
-flagName;
-countryName image;
-phoneCode;
+isoCode \n
+flagName \n
+countryName image\n
+phoneCode \n
