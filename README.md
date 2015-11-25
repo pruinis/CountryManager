@@ -3,10 +3,14 @@ Singleton with country info.
 
 You can get:
 
-isoCode
+- isoCode
 
-flagName
+- flagName
 
-countryName image
+- countryName image
 
-phoneCode
+- phoneCode
+
+- array of countries
+
+...
